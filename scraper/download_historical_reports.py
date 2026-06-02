@@ -11,7 +11,8 @@ SAVE_FOLDER = "data/raw"
 
 os.makedirs(SAVE_FOLDER, exist_ok=True)
 
-START_DATE = datetime(2025, 6, 1)
+# Download every matching report from the CBSL archive starting in 2023.
+START_DATE = datetime(2023, 1, 1)
 
 downloaded = 0
 visited_pages = 0
@@ -62,7 +63,7 @@ while True:
         )
 
         if report_date < START_DATE:
-            print("\nReached one-year limit.")
+            print("\nReached 2023 archive limit.")
             print(f"Downloaded reports: {downloaded}")
             exit()
 
