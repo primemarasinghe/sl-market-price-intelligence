@@ -9,6 +9,9 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 df = pd.read_csv(INPUT_FILE)
 
+# Guard against incomplete rows that would otherwise create blank DateKey values.
+df = df.dropna(subset=["report_date"])
+
 # ----------------------------------
 # FACT TABLE CREATION
 # ----------------------------------

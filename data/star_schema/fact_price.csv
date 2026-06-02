@@ -3295,11 +3295,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Banana (Sour),Pettah,Retail,130.0
 2026-05-29,Banana (Sour),Dambulla,Retail,95.0
 2026-05-29,Banana (Sour),Narahenpita,Retail,200.0
-,Banana (Sour),Pettah,Wholesale,80.0
-,Banana (Sour),Dambulla,Wholesale,65.0
-,Banana (Sour),Pettah,Retail,130.0
-,Banana (Sour),Dambulla,Retail,95.0
-,Banana (Sour),Narahenpita,Retail,200.0
+2026-06-01,Banana (Sour),Pettah,Wholesale,80.0
+2026-06-01,Banana (Sour),Dambulla,Wholesale,75.0
+2026-06-01,Banana (Sour),Pettah,Retail,130.0
+2026-06-01,Banana (Sour),Dambulla,Retail,105.0
+2026-06-01,Banana (Sour),Narahenpita,Retail,200.0
 2023-01-05,Beans,Pettah,Wholesale,550.0
 2023-01-05,Beans,Dambulla,Wholesale,515.0
 2023-01-05,Beans,Pettah,Retail,600.0
@@ -6598,11 +6598,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Beans,Pettah,Retail,350.0
 2026-05-29,Beans,Dambulla,Retail,475.0
 2026-05-29,Beans,Narahenpita,Retail,800.0
-,Beans,Pettah,Wholesale,300.0
-,Beans,Dambulla,Wholesale,445.0
-,Beans,Pettah,Retail,350.0
-,Beans,Dambulla,Retail,475.0
-,Beans,Narahenpita,Retail,800.0
+2026-06-01,Beans,Pettah,Wholesale,550.0
+2026-06-01,Beans,Dambulla,Wholesale,335.0
+2026-06-01,Beans,Pettah,Retail,600.0
+2026-06-01,Beans,Dambulla,Retail,365.0
+2026-06-01,Beans,Narahenpita,Retail,800.0
 2023-01-05,Big Onion (Imp),Pettah,Wholesale,171.0
 2023-01-05,Big Onion (Imp),Dambulla,Wholesale,178.0
 2023-01-05,Big Onion (Imp),Pettah,Retail,200.0
@@ -9888,11 +9888,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Big Onion (Imp),Pettah,Retail,233.0
 2026-05-29,Big Onion (Imp),Dambulla,Retail,210.0
 2026-05-29,Big Onion (Imp),Narahenpita,Retail,240.0
-,Big Onion (Imp),Pettah,Wholesale,194.0
-,Big Onion (Imp),Dambulla,Wholesale,190.0
-,Big Onion (Imp),Pettah,Retail,233.0
-,Big Onion (Imp),Dambulla,Retail,210.0
-,Big Onion (Imp),Narahenpita,Retail,240.0
+2026-06-01,Big Onion (Imp),Pettah,Wholesale,184.0
+2026-06-01,Big Onion (Imp),Dambulla,Wholesale,175.0
+2026-06-01,Big Onion (Imp),Pettah,Retail,223.0
+2026-06-01,Big Onion (Imp),Dambulla,Retail,195.0
+2026-06-01,Big Onion (Imp),Narahenpita,Retail,240.0
 2023-10-20,Big Onion (Local),Pettah,Wholesale,260.0
 2023-10-20,Big Onion (Local),Dambulla,Wholesale,245.0
 2023-10-20,Big Onion (Local),Pettah,Retail,280.0
@@ -13625,11 +13625,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Brinjal,Pettah,Retail,450.0
 2026-05-29,Brinjal,Dambulla,Retail,345.0
 2026-05-29,Brinjal,Narahenpita,Retail,600.0
-,Brinjal,Pettah,Wholesale,400.0
-,Brinjal,Dambulla,Wholesale,315.0
-,Brinjal,Pettah,Retail,450.0
-,Brinjal,Dambulla,Retail,345.0
-,Brinjal,Narahenpita,Retail,600.0
+2026-06-01,Brinjal,Pettah,Wholesale,400.0
+2026-06-01,Brinjal,Dambulla,Wholesale,355.0
+2026-06-01,Brinjal,Pettah,Retail,450.0
+2026-06-01,Brinjal,Dambulla,Retail,385.0
+2026-06-01,Brinjal,Narahenpita,Retail,700.0
 2023-01-05,Cabbage,Pettah,Wholesale,110.0
 2023-01-05,Cabbage,Dambulla,Wholesale,80.0
 2023-01-05,Cabbage,Pettah,Retail,150.0
@@ -16923,11 +16923,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Cabbage,Pettah,Retail,130.0
 2026-05-29,Cabbage,Dambulla,Retail,135.0
 2026-05-29,Cabbage,Narahenpita,Retail,340.0
-,Cabbage,Pettah,Wholesale,80.0
-,Cabbage,Dambulla,Wholesale,105.0
-,Cabbage,Pettah,Retail,130.0
-,Cabbage,Dambulla,Retail,135.0
-,Cabbage,Narahenpita,Retail,340.0
+2026-06-01,Cabbage,Pettah,Wholesale,100.0
+2026-06-01,Cabbage,Dambulla,Wholesale,200.0
+2026-06-01,Cabbage,Pettah,Retail,150.0
+2026-06-01,Cabbage,Dambulla,Retail,230.0
+2026-06-01,Cabbage,Narahenpita,Retail,360.0
 2023-01-05,Carrot,Pettah,Wholesale,220.0
 2023-01-05,Carrot,Dambulla,Wholesale,170.0
 2023-01-05,Carrot,Pettah,Retail,260.0
@@ -20224,11 +20224,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Carrot,Pettah,Retail,300.0
 2026-05-29,Carrot,Dambulla,Retail,335.0
 2026-05-29,Carrot,Narahenpita,Retail,480.0
-,Carrot,Pettah,Wholesale,250.0
-,Carrot,Dambulla,Wholesale,305.0
-,Carrot,Pettah,Retail,300.0
-,Carrot,Dambulla,Retail,335.0
-,Carrot,Narahenpita,Retail,480.0
+2026-06-01,Carrot,Pettah,Wholesale,250.0
+2026-06-01,Carrot,Dambulla,Wholesale,375.0
+2026-06-01,Carrot,Pettah,Retail,300.0
+2026-06-01,Carrot,Dambulla,Retail,405.0
+2026-06-01,Carrot,Narahenpita,Retail,480.0
 2023-01-05,Coconut (Avg.),Pettah,Wholesale,95.0
 2023-01-05,Coconut (Avg.),Dambulla,Wholesale,75.0
 2023-01-05,Coconut (Avg.),Pettah,Retail,110.0
@@ -23522,11 +23522,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Coconut (Avg.),Pettah,Retail,158.0
 2026-05-29,Coconut (Avg.),Dambulla,Retail,130.0
 2026-05-29,Coconut (Avg.),Narahenpita,Retail,165.0
-,Coconut (Avg.),Pettah,Wholesale,125.0
-,Coconut (Avg.),Dambulla,Wholesale,125.0
-,Coconut (Avg.),Pettah,Retail,158.0
-,Coconut (Avg.),Dambulla,Retail,130.0
-,Coconut (Avg.),Narahenpita,Retail,165.0
+2026-06-01,Coconut (Avg.),Pettah,Wholesale,125.0
+2026-06-01,Coconut (Avg.),Dambulla,Wholesale,105.0
+2026-06-01,Coconut (Avg.),Pettah,Retail,158.0
+2026-06-01,Coconut (Avg.),Dambulla,Retail,110.0
+2026-06-01,Coconut (Avg.),Narahenpita,Retail,165.0
 2023-01-05,Coconut oil,Pettah,Wholesale,656.0
 2023-01-05,Coconut oil,Dambulla,Wholesale,733.0
 2023-01-05,Coconut oil,Pettah,Retail,694.0
@@ -25488,9 +25488,9 @@ report_date,commodity,market,price_type,price
 2026-05-29,Coconut oil,Pettah,Wholesale,853.0
 2026-05-29,Coconut oil,Dambulla,Wholesale,916.0
 2026-05-29,Coconut oil,Pettah,Retail,852.0
-,Coconut oil,Pettah,Wholesale,853.0
-,Coconut oil,Dambulla,Wholesale,916.0
-,Coconut oil,Pettah,Retail,852.0
+2026-06-01,Coconut oil,Pettah,Wholesale,853.0
+2026-06-01,Coconut oil,Dambulla,Wholesale,916.0
+2026-06-01,Coconut oil,Pettah,Retail,852.0
 2023-01-05,Dried Chilli (Imp),Pettah,Wholesale,388.0
 2023-01-05,Dried Chilli (Imp),Dambulla,Wholesale,475.0
 2023-01-05,Dried Chilli (Imp),Pettah,Retail,600.0
@@ -28668,11 +28668,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Dried Chilli (Imp),Pettah,Retail,83.0
 2026-05-29,Dried Chilli (Imp),Dambulla,Retail,5.0
 2026-05-29,Dried Chilli (Imp),Narahenpita,Retail,80.0
-,Dried Chilli (Imp),Pettah,Wholesale,988.0
-,Dried Chilli (Imp),Dambulla,Wholesale,975.0
-,Dried Chilli (Imp),Pettah,Retail,83.0
-,Dried Chilli (Imp),Dambulla,Retail,5.0
-,Dried Chilli (Imp),Narahenpita,Retail,80.0
+2026-06-01,Dried Chilli (Imp),Pettah,Wholesale,983.0
+2026-06-01,Dried Chilli (Imp),Dambulla,Wholesale,965.0
+2026-06-01,Dried Chilli (Imp),Pettah,Retail,67.0
+2026-06-01,Dried Chilli (Imp),Dambulla,Retail,995.0
+2026-06-01,Dried Chilli (Imp),Narahenpita,Retail,80.0
 2023-01-05,Egg (White),Pettah,Wholesale,60.0
 2023-01-05,Egg (White),Dambulla,Wholesale,60.0
 2023-01-05,Egg (White),Pettah,Retail,55.0
@@ -30492,9 +30492,9 @@ report_date,commodity,market,price_type,price
 2026-05-29,Egg (White),Pettah,Wholesale,36.5
 2026-05-29,Egg (White),Dambulla,Wholesale,37.83
 2026-05-29,Egg (White),Pettah,Retail,40.0
-,Egg (White),Pettah,Wholesale,36.5
-,Egg (White),Dambulla,Wholesale,37.83
-,Egg (White),Pettah,Retail,40.0
+2026-06-01,Egg (White),Pettah,Wholesale,36.5
+2026-06-01,Egg (White),Dambulla,Wholesale,37.75
+2026-06-01,Egg (White),Pettah,Retail,40.0
 2023-01-05,Green Chilli,Pettah,Wholesale,250.0
 2023-01-05,Green Chilli,Dambulla,Wholesale,270.0
 2023-01-05,Green Chilli,Pettah,Retail,300.0
@@ -33783,11 +33783,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Green Chilli,Pettah,Retail,450.0
 2026-05-29,Green Chilli,Dambulla,Retail,230.0
 2026-05-29,Green Chilli,Narahenpita,Retail,600.0
-,Green Chilli,Pettah,Wholesale,400.0
-,Green Chilli,Dambulla,Wholesale,200.0
-,Green Chilli,Pettah,Retail,450.0
-,Green Chilli,Dambulla,Retail,230.0
-,Green Chilli,Narahenpita,Retail,600.0
+2026-06-01,Green Chilli,Pettah,Wholesale,300.0
+2026-06-01,Green Chilli,Dambulla,Wholesale,400.0
+2026-06-01,Green Chilli,Pettah,Retail,350.0
+2026-06-01,Green Chilli,Dambulla,Retail,430.0
+2026-06-01,Green Chilli,Narahenpita,Retail,800.0
 2023-12-27,Katta (Imp),Pettah,Wholesale,700.0
 2023-12-27,Katta (Imp),Dambulla,Wholesale,0.0
 2023-12-27,Katta (Imp),Pettah,Retail,600.0
@@ -34754,9 +34754,9 @@ report_date,commodity,market,price_type,price
 2026-05-29,Katta (Imp),Pettah,Wholesale,163.0
 2026-05-29,Katta (Imp),Dambulla,Wholesale,450.0
 2026-05-29,Katta (Imp),Pettah,Retail,400.0
-,Katta (Imp),Pettah,Wholesale,163.0
-,Katta (Imp),Dambulla,Wholesale,450.0
-,Katta (Imp),Pettah,Retail,400.0
+2026-06-01,Katta (Imp),Pettah,Wholesale,113.0
+2026-06-01,Katta (Imp),Dambulla,Wholesale,683.0
+2026-06-01,Katta (Imp),Pettah,Retail,400.0
 2023-01-05,Lime,Pettah,Wholesale,100.0
 2023-01-05,Lime,Dambulla,Wholesale,85.0
 2023-01-05,Lime,Pettah,Retail,150.0
@@ -38048,11 +38048,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Lime,Pettah,Retail,550.0
 2026-05-29,Lime,Dambulla,Retail,405.0
 2026-05-29,Lime,Narahenpita,Retail,800.0
-,Lime,Pettah,Wholesale,500.0
-,Lime,Dambulla,Wholesale,375.0
-,Lime,Pettah,Retail,550.0
-,Lime,Dambulla,Retail,405.0
-,Lime,Narahenpita,Retail,800.0
+2026-06-01,Lime,Pettah,Wholesale,500.0
+2026-06-01,Lime,Dambulla,Wholesale,425.0
+2026-06-01,Lime,Pettah,Retail,550.0
+2026-06-01,Lime,Dambulla,Retail,455.0
+2026-06-01,Lime,Narahenpita,Retail,0.0
 2023-01-05,Papaw,Pettah,Wholesale,200.0
 2023-01-05,Papaw,Dambulla,Wholesale,90.0
 2023-01-05,Papaw,Pettah,Retail,240.0
@@ -41348,11 +41348,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Papaw,Pettah,Retail,170.0
 2026-05-29,Papaw,Dambulla,Retail,105.0
 2026-05-29,Papaw,Narahenpita,Retail,240.0
-,Papaw,Pettah,Wholesale,120.0
-,Papaw,Dambulla,Wholesale,75.0
-,Papaw,Pettah,Retail,170.0
-,Papaw,Dambulla,Retail,105.0
-,Papaw,Narahenpita,Retail,240.0
+2026-06-01,Papaw,Pettah,Wholesale,120.0
+2026-06-01,Papaw,Dambulla,Wholesale,75.0
+2026-06-01,Papaw,Pettah,Retail,170.0
+2026-06-01,Papaw,Dambulla,Retail,105.0
+2026-06-01,Papaw,Narahenpita,Retail,240.0
 2023-01-05,Pineapple,Dambulla,Wholesale,330.0
 2023-01-05,Pineapple,Pettah,Retail,385.0
 2023-01-05,Pineapple,Dambulla,Retail,360.0
@@ -43985,10 +43985,10 @@ report_date,commodity,market,price_type,price
 2026-05-29,Pineapple,Pettah,Retail,240.0
 2026-05-29,Pineapple,Dambulla,Retail,355.0
 2026-05-29,Pineapple,Narahenpita,Retail,350.0
-,Pineapple,Dambulla,Wholesale,325.0
-,Pineapple,Pettah,Retail,240.0
-,Pineapple,Dambulla,Retail,355.0
-,Pineapple,Narahenpita,Retail,350.0
+2026-06-01,Pineapple,Dambulla,Wholesale,235.0
+2026-06-01,Pineapple,Pettah,Retail,240.0
+2026-06-01,Pineapple,Dambulla,Retail,265.0
+2026-06-01,Pineapple,Narahenpita,Retail,350.0
 2023-01-05,Potato (Imp),Pettah,Wholesale,116.0
 2023-01-05,Potato (Imp),Dambulla,Wholesale,118.0
 2023-01-05,Potato (Imp),Pettah,Retail,160.0
@@ -47267,11 +47267,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Potato (Imp),Pettah,Retail,207.0
 2026-05-29,Potato (Imp),Dambulla,Retail,170.0
 2026-05-29,Potato (Imp),Narahenpita,Retail,240.0
-,Potato (Imp),Pettah,Wholesale,165.0
-,Potato (Imp),Dambulla,Wholesale,150.0
-,Potato (Imp),Pettah,Retail,207.0
-,Potato (Imp),Dambulla,Retail,170.0
-,Potato (Imp),Narahenpita,Retail,240.0
+2026-06-01,Potato (Imp),Pettah,Wholesale,163.0
+2026-06-01,Potato (Imp),Dambulla,Wholesale,168.0
+2026-06-01,Potato (Imp),Pettah,Retail,197.0
+2026-06-01,Potato (Imp),Dambulla,Retail,188.0
+2026-06-01,Potato (Imp),Narahenpita,Retail,240.0
 2023-01-05,Potato (Local),Pettah,Wholesale,388.0
 2023-01-05,Potato (Local),Dambulla,Wholesale,385.0
 2023-01-05,Potato (Local),Pettah,Retail,450.0
@@ -50291,11 +50291,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Potato (Local),Pettah,Retail,300.0
 2026-05-29,Potato (Local),Dambulla,Retail,235.0
 2026-05-29,Potato (Local),Narahenpita,Retail,350.0
-,Potato (Local),Pettah,Wholesale,280.0
-,Potato (Local),Dambulla,Wholesale,215.0
-,Potato (Local),Pettah,Retail,300.0
-,Potato (Local),Dambulla,Retail,235.0
-,Potato (Local),Narahenpita,Retail,350.0
+2026-06-01,Potato (Local),Pettah,Wholesale,290.0
+2026-06-01,Potato (Local),Dambulla,Wholesale,225.0
+2026-06-01,Potato (Local),Pettah,Retail,347.0
+2026-06-01,Potato (Local),Dambulla,Retail,245.0
+2026-06-01,Potato (Local),Narahenpita,Retail,350.0
 2023-01-05,Pumpkin,Pettah,Wholesale,130.0
 2023-01-05,Pumpkin,Dambulla,Wholesale,130.0
 2023-01-05,Pumpkin,Pettah,Retail,180.0
@@ -53594,11 +53594,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Pumpkin,Pettah,Retail,150.0
 2026-05-29,Pumpkin,Dambulla,Retail,120.0
 2026-05-29,Pumpkin,Narahenpita,Retail,220.0
-,Pumpkin,Pettah,Wholesale,100.0
-,Pumpkin,Dambulla,Wholesale,90.0
-,Pumpkin,Pettah,Retail,150.0
-,Pumpkin,Dambulla,Retail,120.0
-,Pumpkin,Narahenpita,Retail,220.0
+2026-06-01,Pumpkin,Pettah,Wholesale,120.0
+2026-06-01,Pumpkin,Dambulla,Wholesale,95.0
+2026-06-01,Pumpkin,Pettah,Retail,170.0
+2026-06-01,Pumpkin,Dambulla,Retail,125.0
+2026-06-01,Pumpkin,Narahenpita,Retail,160.0
 2023-01-05,Red Dhal,Pettah,Wholesale,357.0
 2023-01-05,Red Dhal,Dambulla,Wholesale,380.0
 2023-01-05,Red Dhal,Pettah,Retail,380.0
@@ -55569,9 +55569,9 @@ report_date,commodity,market,price_type,price
 2026-05-29,Red Dhal,Pettah,Wholesale,246.0
 2026-05-29,Red Dhal,Dambulla,Wholesale,260.0
 2026-05-29,Red Dhal,Pettah,Retail,280.0
-,Red Dhal,Pettah,Wholesale,246.0
-,Red Dhal,Dambulla,Wholesale,260.0
-,Red Dhal,Pettah,Retail,280.0
+2026-06-01,Red Dhal,Pettah,Wholesale,240.0
+2026-06-01,Red Dhal,Dambulla,Wholesale,260.0
+2026-06-01,Red Dhal,Pettah,Retail,280.0
 2023-01-25,Red Onion (Local),Pettah,Wholesale,475.0
 2023-01-25,Red Onion (Local),Pettah,Retail,550.0
 2023-01-31,Red Onion (Local),Pettah,Wholesale,475.0
@@ -60235,11 +60235,11 @@ report_date,commodity,market,price_type,price
 2026-05-29,Snake gourd,Pettah,Retail,350.0
 2026-05-29,Snake gourd,Dambulla,Retail,295.0
 2026-05-29,Snake gourd,Narahenpita,Retail,600.0
-,Snake gourd,Pettah,Wholesale,300.0
-,Snake gourd,Dambulla,Wholesale,265.0
-,Snake gourd,Pettah,Retail,350.0
-,Snake gourd,Dambulla,Retail,295.0
-,Snake gourd,Narahenpita,Retail,600.0
+2026-06-01,Snake gourd,Pettah,Wholesale,300.0
+2026-06-01,Snake gourd,Dambulla,Wholesale,305.0
+2026-06-01,Snake gourd,Pettah,Retail,350.0
+2026-06-01,Snake gourd,Dambulla,Retail,335.0
+2026-06-01,Snake gourd,Narahenpita,Retail,600.0
 2023-01-05,Sprat (Imp),Pettah,Wholesale,0.0
 2023-01-05,Sprat (Imp),Dambulla,Wholesale,200.0
 2023-01-05,Sprat (Imp),Pettah,Retail,400.0
@@ -61903,9 +61903,9 @@ report_date,commodity,market,price_type,price
 2026-05-29,Sprat (Imp),Pettah,Wholesale,988.0
 2026-05-29,Sprat (Imp),Dambulla,Wholesale,183.0
 2026-05-29,Sprat (Imp),Pettah,Retail,600.0
-,Sprat (Imp),Pettah,Wholesale,988.0
-,Sprat (Imp),Dambulla,Wholesale,183.0
-,Sprat (Imp),Pettah,Retail,600.0
+2026-06-01,Sprat (Imp),Pettah,Wholesale,13.0
+2026-06-01,Sprat (Imp),Dambulla,Wholesale,217.0
+2026-06-01,Sprat (Imp),Pettah,Retail,600.0
 2023-01-05,Sugar (White),Pettah,Wholesale,211.0
 2023-01-05,Sugar (White),Dambulla,Wholesale,225.0
 2023-01-05,Sugar (White),Pettah,Retail,220.0
@@ -63866,9 +63866,9 @@ report_date,commodity,market,price_type,price
 2026-05-29,Sugar (White),Pettah,Wholesale,218.0
 2026-05-29,Sugar (White),Dambulla,Wholesale,230.0
 2026-05-29,Sugar (White),Pettah,Retail,240.0
-,Sugar (White),Pettah,Wholesale,218.0
-,Sugar (White),Dambulla,Wholesale,230.0
-,Sugar (White),Pettah,Retail,240.0
+2026-06-01,Sugar (White),Pettah,Wholesale,212.0
+2026-06-01,Sugar (White),Dambulla,Wholesale,230.0
+2026-06-01,Sugar (White),Pettah,Retail,240.0
 2023-01-05,Tomato,Pettah,Wholesale,150.0
 2023-01-05,Tomato,Dambulla,Wholesale,85.0
 2023-01-05,Tomato,Pettah,Retail,200.0
@@ -67168,8 +67168,8 @@ report_date,commodity,market,price_type,price
 2026-05-29,Tomato,Pettah,Retail,450.0
 2026-05-29,Tomato,Dambulla,Retail,305.0
 2026-05-29,Tomato,Narahenpita,Retail,500.0
-,Tomato,Pettah,Wholesale,400.0
-,Tomato,Dambulla,Wholesale,275.0
-,Tomato,Pettah,Retail,450.0
-,Tomato,Dambulla,Retail,305.0
-,Tomato,Narahenpita,Retail,500.0
+2026-06-01,Tomato,Pettah,Wholesale,400.0
+2026-06-01,Tomato,Dambulla,Wholesale,340.0
+2026-06-01,Tomato,Pettah,Retail,450.0
+2026-06-01,Tomato,Dambulla,Retail,370.0
+2026-06-01,Tomato,Narahenpita,Retail,500.0

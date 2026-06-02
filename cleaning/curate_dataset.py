@@ -39,6 +39,9 @@ df = pd.read_csv(INPUT_FILE)
 # Keep only selected commodities
 df = df[df["commodity"].isin(SELECTED_COMMODITIES)]
 
+# Drop rows that do not have a valid report date.
+df = df.dropna(subset=["report_date"])
+
 # Convert n.a. to NaN
 df.replace("n.a.", pd.NA, inplace=True)
 

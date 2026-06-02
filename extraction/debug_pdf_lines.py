@@ -1,9 +1,28 @@
 import pdfplumber
 import pandas as pd
 import re
+from pathlib import Path
+
+from pdf_utils import get_latest_pdf_path
 
 # PDF path
-PDF_PATH = "data/raw/price_report_20260529_e.pdf"
+PDF_PATH = get_latest_pdf_path()
+
+
+def get_report_date_from_pdf_path(pdf_path):
+
+    match = re.search(r"(\d{8})", Path(pdf_path).name)
+
+    if not match:
+        return None
+
+    raw_date = match.group(1)
+
+    return (
+        f"{raw_date[:4]}-"
+        f"{raw_date[4:6]}-"
+        f"{raw_date[6:]}"
+    )
 
 # Output CSV
 OUTPUT_CSV = "data/processed/final_prices.csv"
@@ -108,6 +127,7 @@ def parse_rows(text):
 
         # Create structured row
         row_data = {
+            "report_date": get_report_date_from_pdf_path(PDF_PATH),
             "commodity": commodity,
             "unit": unit
         }

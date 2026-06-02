@@ -1,8 +1,10 @@
 import pdfplumber
 import pandas as pd
 
+from pdf_utils import get_latest_pdf_path
+
 # PDF path
-PDF_PATH = "data/raw/price_report_20260529_e.pdf"
+PDF_PATH = get_latest_pdf_path()
 
 def extract_tables():
 

@@ -1,8 +1,11 @@
+import os
+import re
+from datetime import datetime
+
 import pdfplumber
 import pandas as pd
-import re
-import os
-from datetime import datetime
+
+from pdf_utils import get_latest_pdf_path
 def extract_report_date(text):
 
     match = re.search(
@@ -29,7 +32,7 @@ def extract_report_date(text):
 
     return None
 # PDF path
-PDF_PATH = "data/raw/price_report_20260529_e.pdf"
+PDF_PATH = str(get_latest_pdf_path())
 
 # Output CSV
 OUTPUT_CSV = "data/processed/structured_prices.csv"
@@ -156,23 +159,23 @@ def main():
 
     text = extract_text_from_pdf(PDF_PATH)
 
-report_date = extract_report_date(text)
+    report_date = extract_report_date(text)
 
-if report_date is None:
+    if report_date is None:
 
-    report_date = REPORT_DATE
+        report_date = REPORT_DATE
 
-print(f"Report Date: {report_date}")
+    print(f"Report Date: {report_date}")
 
-rows = extract_commodity_rows(
+    rows = extract_commodity_rows(
 
-    text,
+        text,
 
-    report_date
+        report_date
 
-)
+    )
 
-df = pd.DataFrame(rows)
+    df = pd.DataFrame(rows)
 
     print("\nPreview:")
     print(df.head())
